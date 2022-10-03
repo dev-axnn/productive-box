@@ -12,6 +12,6 @@ jobs:
       - name: Update gist
         uses: dev-axnn/productive-box@master
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          GH_TOKEN: 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
+          GIST_ID: 25f3caebf293b0cf8023815c767928d6
           TIMEZONE: Asia/Seoul
